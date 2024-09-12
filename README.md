@@ -109,4 +109,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any inquiries, please contact your-email@example.com.
+For any inquiries, please contact crymerom@gmail.com.
