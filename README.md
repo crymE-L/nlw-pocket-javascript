@@ -35,8 +35,8 @@ Follow these steps to set up the application locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/goals-management-app.git
-cd goals-management-app
+git clone https://github.com/crymE-L/nlw-pocket-javascript.git
+cd nlw-pocket-javascript
 ```
 
 ### 2. Set Up Environment Variables
